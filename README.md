@@ -1,2 +1,0 @@
-# ITSS-4371-Project
-USM210000
